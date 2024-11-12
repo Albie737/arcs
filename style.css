@@ -1,9 +1,6 @@
 
 body {
   background-image: url("kimmy.jpg");
-  background-repeat: no-repeat;
-  background-position: center bottom;
-  background-attachment: fixed;
 }
 
 h1 {
